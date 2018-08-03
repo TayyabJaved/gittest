@@ -6,3 +6,4 @@ changes to be added to a new branch: branch1
 2
 3
 added A
+change
